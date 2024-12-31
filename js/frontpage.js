@@ -1,5 +1,5 @@
 const topElement = document.querySelector(".top"); // 選擇 .top 元素
-    const img = document.querySelector(".img");
+    const img = document.querySelector(".topimg");
     let scrollDistance = 0;
     let requestId = null;
 
